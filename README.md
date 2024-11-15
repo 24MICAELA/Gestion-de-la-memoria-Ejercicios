@@ -1,4 +1,4 @@
-COLECCIÓN DE EJERCICIOS: GESTIÓN DE MEMORIA
+COLECCIÓN DE EJERCICIOS: GESTIÓN DE LA MEMORIA
 
 https://github.com/24MICAELA/Gestion-de-la-memoria-Ejercicios.git
 
